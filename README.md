@@ -5,9 +5,7 @@
 3D swimming Fishes Implemented by Flocking Boids Algorithm
 ----------------------------------------------------------
 
-
 Author:    "reexre"  , AKA: MiorSoft, Roberto Mior
--------------------------------------------
 
 
 Interesting features included in source code:
